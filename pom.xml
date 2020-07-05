@@ -7,10 +7,12 @@
     <groupId>com.homework.nix</groupId>
     <artifactId>algorithm</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
     <modules>
         <module>algorithm_data</module>
+        <module>algorithm_main</module>
     </modules>
-    <packaging>pom</packaging>
 
     <name>algorithm :: root</name>
 
