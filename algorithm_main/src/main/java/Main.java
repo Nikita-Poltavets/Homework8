@@ -1,5 +1,6 @@
 import util.BubbleSort;
 import util.InsertionSort;
+import util.MergeSort;
 
 public class Main {
 
@@ -19,6 +20,9 @@ public class Main {
         BubbleSort.bubbleSortAlgorithm(getArray());
 
         InsertionSort.insertionSortAlgorithm(getArray());
+
+        MergeSort.mergeArray(getArray(), getArray());
+
 
     }
 
