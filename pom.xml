@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>algorithm_data</module>
+        <module>algorithm_library</module>
         <module>algorithm_main</module>
     </modules>
 
