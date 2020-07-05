@@ -1,7 +1,4 @@
-import util.BubbleSort;
-import util.InsertionSort;
-import util.MergeSort;
-import util.QuickSort;
+import util.*;
 
 public class Main {
 
@@ -25,6 +22,8 @@ public class Main {
         MergeSort.mergeArray(getArray(), getArray());
 
         QuickSort.quickSortAlgorithm(getArray(), 0, getArray().length - 1);
+
+        SelectionSort.sort(getArray());
     }
 
 }
