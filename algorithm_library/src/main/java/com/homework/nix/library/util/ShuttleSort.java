@@ -1,4 +1,4 @@
-package util;
+package com.homework.nix.library.util;
 
 public class ShuttleSort {
 

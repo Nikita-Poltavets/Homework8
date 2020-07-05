@@ -1,4 +1,6 @@
-import util.*;
+package com.homework.nix.main;
+
+import com.homework.nix.library.util.*;
 
 public class Main {
 
