@@ -1,4 +1,5 @@
 import util.BubbleSort;
+import util.InsertionSort;
 
 public class Main {
 
@@ -16,6 +17,8 @@ public class Main {
     public static void main(String[] args) {
 
         BubbleSort.bubbleSortAlgorithm(getArray());
+
+        InsertionSort.insertionSortAlgorithm(getArray());
 
     }
 
