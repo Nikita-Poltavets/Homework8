@@ -26,6 +26,8 @@ public class Main {
         SelectionSort.sort(getArray());
 
         ShellSort.sort(getArray());
+
+        ShuttleSort.shuttleSort(getArray());
     }
 
 }
