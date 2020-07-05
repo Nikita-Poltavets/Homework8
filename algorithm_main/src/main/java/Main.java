@@ -24,6 +24,8 @@ public class Main {
         QuickSort.quickSortAlgorithm(getArray(), 0, getArray().length - 1);
 
         SelectionSort.sort(getArray());
+
+        ShellSort.sort(getArray());
     }
 
 }
