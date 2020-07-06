@@ -43,4 +43,10 @@ class AlgorithmsTest {
         ShellSort.sort(unsortedArray);
         assertArrayEquals(sortedArray, unsortedArray);
     }
+
+    @Test
+    void shuttleSort() {
+        ShuttleSort.shuttleSort(unsortedArray);
+        assertArrayEquals(sortedArray, unsortedArray);
+    }
 }
