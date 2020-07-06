@@ -14,4 +14,10 @@ class AlgorithmsTest {
         BubbleSort.bubbleSortAlgorithm(unsortedArray);
         assertArrayEquals(sortedArray, unsortedArray);
     }
+
+    @Test
+    void insertionSortAlgorithm() {
+        InsertionSort.insertionSortAlgorithm(unsortedArray);
+        assertArrayEquals(sortedArray, unsortedArray);
+    }
 }
