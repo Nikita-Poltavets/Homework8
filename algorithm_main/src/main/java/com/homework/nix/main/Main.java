@@ -31,7 +31,7 @@ public class Main {
         map.put(System.nanoTime() - startTime, "Insertion sort");
 
         startTime = System.nanoTime();
-        MergeSort.mergeArray(Arrays.copyOfRange(getArray(), 0, getArray().length / 2), Arrays.copyOfRange(getArray(), getArray().length / 2, getArray().length));
+        MergeSort.sortMergeArray(getArray());
         map.put(System.nanoTime() - startTime, "Merge sort");
 
         startTime = System.nanoTime();

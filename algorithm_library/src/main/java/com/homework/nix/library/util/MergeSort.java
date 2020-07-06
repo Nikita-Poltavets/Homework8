@@ -2,7 +2,7 @@ package com.homework.nix.library.util;
 
 public class MergeSort {
 
-    public static void mergeArray(int [] arrayLeft, int [] arrayRight) {
+    public static int [] mergeArray(int [] arrayLeft, int [] arrayRight) {
         int[] arrayResult = new int[arrayLeft.length + arrayRight.length];
         int i = 0, j = 0;
         for (int k = 0; k < arrayResult.length; k++) {
@@ -27,6 +27,23 @@ public class MergeSort {
                 j++;
             }
         }
+        return arrayResult;
+    }
 
+    public static int[] sortMergeArray(int[] arr) {
+        if (arr.length < 2) {
+            return arr;
+        }
+        int [] arrayLeft = new int[arr.length / 2];
+        System.arraycopy(arr, 0, arrayLeft, 0, arr.length / 2);
+
+        int [] arrayRight = new int[arr.length - arr.length / 2];
+        System.arraycopy(arr, arr.length / 2, arrayRight, 0, arr.length - arr.length / 2);
+
+
+        arrayLeft = sortMergeArray(arrayLeft);
+        arrayRight = sortMergeArray(arrayRight);
+
+        return mergeArray(arrayLeft, arrayRight);
     }
 }
