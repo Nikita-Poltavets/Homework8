@@ -25,4 +25,10 @@ class AlgorithmsTest {
     void sortMergeArray() {
         assertArrayEquals(sortedArray, MergeSort.sortMergeArray(unsortedArray));
     }
+
+    @Test
+    void quickSortAlgorithm() {
+        QuickSort.quickSortAlgorithm(unsortedArray, 0, unsortedArray.length - 1);
+        assertArrayEquals(sortedArray, unsortedArray);
+    }
 }
