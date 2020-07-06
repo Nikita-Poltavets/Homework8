@@ -37,4 +37,10 @@ class AlgorithmsTest {
         SelectionSort.sort(unsortedArray);
         assertArrayEquals(sortedArray, unsortedArray);
     }
+
+    @Test
+    void shellSortAlgorithm() {
+        ShellSort.sort(unsortedArray);
+        assertArrayEquals(sortedArray, unsortedArray);
+    }
 }
