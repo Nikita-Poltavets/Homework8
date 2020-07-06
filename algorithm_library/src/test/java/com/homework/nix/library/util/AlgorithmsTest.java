@@ -31,4 +31,10 @@ class AlgorithmsTest {
         QuickSort.quickSortAlgorithm(unsortedArray, 0, unsortedArray.length - 1);
         assertArrayEquals(sortedArray, unsortedArray);
     }
+
+    @Test
+    void sort() {
+        SelectionSort.sort(unsortedArray);
+        assertArrayEquals(sortedArray, unsortedArray);
+    }
 }
