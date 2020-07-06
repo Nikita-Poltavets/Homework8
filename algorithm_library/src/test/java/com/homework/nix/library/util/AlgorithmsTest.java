@@ -20,4 +20,9 @@ class AlgorithmsTest {
         InsertionSort.insertionSortAlgorithm(unsortedArray);
         assertArrayEquals(sortedArray, unsortedArray);
     }
+
+    @Test
+    void sortMergeArray() {
+        assertArrayEquals(sortedArray, MergeSort.sortMergeArray(unsortedArray));
+    }
 }
