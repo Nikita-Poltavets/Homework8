@@ -1,10 +1,13 @@
 package com.homework.nix.main;
 
 import com.homework.nix.library.util.*;
+import org.apache.log4j.Logger;
 
 import java.util.*;
 
 public class Main {
+
+    final static Logger logger = Logger.getLogger(Main.class);
 
     public static int[] getArray(){
         int[] ints = new int[10000];
@@ -18,7 +21,8 @@ public class Main {
     }
 
     public static void algrorithms(){
-        long startTime;
+       long startTime;
+       int i = 0;
        Map<Long, String> map = new HashMap<>();
 
 
@@ -54,7 +58,8 @@ public class Main {
 
         for(Map.Entry<Long, String> pair : sortedMap.entrySet())
         {
-            System.out.println(pair.getKey() + " - " + pair.getValue());
+            i++;
+            logger.info(i + ") " + pair.getValue() + " - " + pair.getKey() + " Nanoseconds");
         }
     }
 

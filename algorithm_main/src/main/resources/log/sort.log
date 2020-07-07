@@ -1,0 +1,14 @@
+INFO  1) Quick sort - 4547125 Nanoseconds
+INFO  2) Merge sort - 4956000 Nanoseconds
+INFO  3) Shell sort - 9212486 Nanoseconds
+INFO  4) Insertion sort - 31388094 Nanoseconds
+INFO  5) Shuttle sort - 151356304 Nanoseconds
+INFO  6) Selection sort - 158174662 Nanoseconds
+INFO  7) Bubble sort - 226336107 Nanoseconds
+INFO  1) Quick sort - 4312401 Nanoseconds
+INFO  2) Merge sort - 4738457 Nanoseconds
+INFO  3) Shell sort - 8837684 Nanoseconds
+INFO  4) Insertion sort - 30313197 Nanoseconds
+INFO  5) Shuttle sort - 143118826 Nanoseconds
+INFO  6) Selection sort - 154139794 Nanoseconds
+INFO  7) Bubble sort - 196661850 Nanoseconds
