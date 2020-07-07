@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="769c5f72-66bc-454a-9d5d-10c435dec4e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_main/src/main/resources/log/sort.log" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_main/src/main/resources/log/sort.log" afterDir="false" />
     </list>
     <list id="f1c735f5-5c62-48a5-aef2-cc5a27edcd4c" name="Create test for bubble sort algorithm" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="544">
               <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
@@ -39,16 +41,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+            <state relative-caret-position="765">
+              <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm_main/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/ShuttleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -56,22 +76,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="493">
+              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1964#1965#0" expanded="true" />
-                <element signature="e#1993#1994#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/resources/log/sort.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm_library/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -119,13 +160,16 @@
         <option value="$PROJECT_DIR$/algorithm_library/src/main/java/util/ShellSort.java" />
         <option value="$PROJECT_DIR$/algorithm_library/src/main/java/util/ShuttleSort.java" />
         <option value="$PROJECT_DIR$/algorithm_main/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/algorithm_main/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithm_library/pom.xml" />
         <option value="$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/InsertionSortTest.java" />
         <option value="$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/MergeSort.java" />
-        <option value="$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java" />
         <option value="$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java" />
+        <option value="$PROJECT_DIR$/algorithm_library/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm_main/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/algorithm_main/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm_main/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java" />
+        <option value="$PROJECT_DIR$/algorithm_main/src/main/resources/log/sort.log" />
       </list>
     </option>
   </component>
@@ -133,12 +177,24 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm :: library" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm :: library" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -151,11 +207,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <showExcludedFiles Scope="false" ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,30 +260,6 @@
             <path>
               <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework8" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_library" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework8" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_library" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework8" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_library" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework8" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm_main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,13 +291,28 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework8" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework8" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,13 +322,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -287,6 +337,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="com.homework.nix.library.util.AlgorithmsTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjectNix\Homework8\algorithm_main\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="util" />
@@ -308,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AlgorithmsTest.quickSortAlgorithm">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.homework.nix.main.Main" />
       <module name="algorithm_main" />
@@ -322,7 +375,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgorithmsTest.insertionSortAlgorithm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlgorithmsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_library" />
       <extension name="coverage">
         <pattern>
@@ -332,24 +385,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.homework.nix.library.util" />
       <option name="MAIN_CLASS_NAME" value="com.homework.nix.library.util.AlgorithmsTest" />
-      <option name="METHOD_NAME" value="insertionSortAlgorithm" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlgorithmsTest.mergeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_library" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.homework.nix.library.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.homework.nix.library.util" />
-      <option name="MAIN_CLASS_NAME" value="com.homework.nix.library.util.AlgorithmsTest" />
-      <option name="METHOD_NAME" value="mergeArray" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -370,7 +406,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgorithmsTest.sortMergeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlgorithmsTest.shellSortAlgorithm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm_library" />
       <extension name="coverage">
         <pattern>
@@ -380,7 +416,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.homework.nix.library.util" />
       <option name="MAIN_CLASS_NAME" value="com.homework.nix.library.util.AlgorithmsTest" />
-      <option name="METHOD_NAME" value="sortMergeArray" />
+      <option name="METHOD_NAME" value="shellSortAlgorithm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmsTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.nix.library.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.homework.nix.library.util" />
+      <option name="MAIN_CLASS_NAME" value="com.homework.nix.library.util.AlgorithmsTest" />
+      <option name="METHOD_NAME" value="sort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -388,11 +440,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AlgorithmsTest.quickSortAlgorithm" />
-        <item itemvalue="JUnit.AlgorithmsTest.sortMergeArray" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.AlgorithmsTest.mergeArray" />
-        <item itemvalue="JUnit.AlgorithmsTest.insertionSortAlgorithm" />
+        <item itemvalue="JUnit.AlgorithmsTest" />
+        <item itemvalue="JUnit.AlgorithmsTest.shellSortAlgorithm" />
+        <item itemvalue="JUnit.AlgorithmsTest.sort" />
+        <item itemvalue="JUnit.AlgorithmsTest.quickSortAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -418,6 +470,18 @@
     <history-entry file="AlgorithmsTest_sortMergeArray - 2020.07.06 at 19h 33m 59s.xml">
       <configuration name="AlgorithmsTest.sortMergeArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AlgorithmsTest_quickSortAlgorithm - 2020.07.06 at 19h 38m 32s.xml">
+      <configuration name="AlgorithmsTest.quickSortAlgorithm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgorithmsTest_sort - 2020.07.06 at 19h 42m 12s.xml">
+      <configuration name="AlgorithmsTest.sort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgorithmsTest_shellSortAlgorithm - 2020.07.06 at 19h 47m 00s.xml">
+      <configuration name="AlgorithmsTest.shellSortAlgorithm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgorithmsTest - 2020.07.06 at 19h 47m 05s.xml">
+      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,7 +496,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22068231" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -441,13 +505,13 @@
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.46861473" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" visible="true" weight="0.40584415" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.29329005" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.40584415" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -502,7 +566,13 @@
         </entry>
         <entry key="User">
           <value>
-            <list />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="me" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -510,20 +580,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create class in order to get an array of random numbers for algorithms" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java</url>
-          <line>29</line>
-          <properties class="com.homework.nix.library.util.AlgorithmsTest" method="quickSortAlgorithm">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/Main.java" />
@@ -545,13 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java11/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -570,55 +619,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/ShuttleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_main/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/InsertionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/InsertionSortTest.java" />
     <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -635,33 +640,91 @@
     <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1964#1965#0" expanded="true" />
-            <element signature="e#1993#1994#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm_library/src/test/java/com/homework/nix/library/util/AlgorithmsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        <state relative-caret-position="765">
+          <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_main/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_library/src/main/java/com/homework/nix/library/util/ShuttleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_library/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/java/com/homework/nix/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_main/src/main/resources/log/sort.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <provider editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

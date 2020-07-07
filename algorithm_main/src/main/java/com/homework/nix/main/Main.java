@@ -20,7 +20,7 @@ public class Main {
         return ints;
     }
 
-    public static void algrorithms(){
+    public static void algorithms(){
        long startTime;
        int i = 0;
        Map<Long, String> map = new HashMap<>();
@@ -56,15 +56,20 @@ public class Main {
 
         Map<Long, String> sortedMap = new TreeMap<>(map);
 
-        for(Map.Entry<Long, String> pair : sortedMap.entrySet())
-        {
-            i++;
-            logger.info(i + ") " + pair.getValue() + " - " + pair.getKey() + " Nanoseconds");
+        for (int j = 0; j < 10; j++) {
+            i = 0;
+            for(Map.Entry<Long, String> pair : sortedMap.entrySet())
+            {
+                i++;
+                logger.info(i + ") " + pair.getValue() + " - " + pair.getKey() + " Nanoseconds");
+            }
+            logger.info("\n\r");
         }
+
     }
 
     public static void main(String[] args) {
-        algrorithms();
+        algorithms();
     }
 
 }
